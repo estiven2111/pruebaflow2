@@ -1,2 +1,1 @@
-const  sum = (a,b) => a+b
-console.log(sum(200,400))
+console.log('game over');
