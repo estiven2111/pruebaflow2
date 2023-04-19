@@ -1,6 +1,11 @@
-const  sum = (a,b) => a+b
-console.log(sum(2,4))
+const sum = (a, b) => a + b
+console.log(sum(2, 4))
 
-const log = ()=>{
+const log = () => {
     console.log("esto es un sdfsd")
+}
+
+const restar = (a, b) => {
+    return a - b * 25
+
 }
