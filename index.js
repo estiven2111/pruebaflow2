@@ -6,6 +6,6 @@ const log = () => {
 }
 
 const restar = (a, b) => {
-    return a - b * 25
+    return a - b * 2
 
 }
