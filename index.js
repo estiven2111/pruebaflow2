@@ -1,2 +1,2 @@
 const  sum = (a,b) => a+b
-console.log(sum(20,40))
+console.log(sum(200,400))
