@@ -7,5 +7,8 @@ const log = ()=>{
 const log1 = ()=>{
     console.log("esto es un sdfsd")
 }
-// Acá hice un cambio
-const variable = 1;
+
+
+const count = ()=> {
+    
+}
