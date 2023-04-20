@@ -11,6 +11,6 @@ const restar = (a, b) => {
 }
 
 const mul = (a, b) => {
-    return a - b * 2
+    return a - b * 2 *96
 
 }
