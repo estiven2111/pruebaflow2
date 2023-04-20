@@ -16,5 +16,5 @@ const restar = (a, b) => {
 }
 
 console.log(restar(5,5))
-
+//muliplicar funtiocn
 console.log(multiplicar(5,5))
