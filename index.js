@@ -1,3 +1,5 @@
+import  {multiplicar} from './functions.js'
+
 const sum = (a, b) => a + b
 console.log(sum(2, 4))
 
@@ -9,15 +11,10 @@ const log = ()=>{
 }
 
 const restar = (a, b) => {
-    return a - b - 2
+    return a - b * 2
 
 }
 
-const mul = (a, b) => {
-    return a - b * 2 *96
-
-}
-
-
-
-//! ESTA ES MI NUEVA RAMA!!! MIGUEL_DEV
+console.log(restar(5,5))
+//muliplicar funtiocn
+console.log(multiplicar(5,5))
