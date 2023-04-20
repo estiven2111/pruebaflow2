@@ -4,3 +4,5 @@ console.log(sum(2,4))
 const log = ()=>{
     console.log("esto es un sdfsd")
 }
+
+//Aca oscar cambio algo//
