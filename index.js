@@ -7,3 +7,17 @@ const oscarfunc = () =>{
 const log = ()=>{
     console.log("esto es un sdfsd")
 }
+
+const restar = (a, b) => {
+    return a - b - 2
+
+}
+
+const mul = (a, b) => {
+    return a - b * 2 *96
+
+}
+
+
+
+//! ESTA ES MI NUEVA RAMA!!! MIGUEL_DEV
