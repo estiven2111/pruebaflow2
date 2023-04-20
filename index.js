@@ -6,6 +6,11 @@ const log = () => {
 }
 
 const restar = (a, b) => {
-    return a - b * 2
+    return a - b - 2
+
+}
+
+const mul = (a, b) => {
+    return a - b * 2 *2
 
 }
